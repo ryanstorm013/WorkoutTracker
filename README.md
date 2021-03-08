@@ -1,3 +1,8 @@
 # WorkoutTracker
 
-![Main](Img/Main-Menu.png)
+![Main](Img/MainMenu.png)
+
+
+## Introduction
+
+Have the user be able to create
